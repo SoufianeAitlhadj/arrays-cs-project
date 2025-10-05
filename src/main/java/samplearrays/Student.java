@@ -9,7 +9,7 @@ public class Student {
     private int age;
     private int grade;
 
-    
+
     private static int numStudent = 0;
 
     public Student(int id, String name) {
